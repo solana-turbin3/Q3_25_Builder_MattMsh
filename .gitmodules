@@ -1,0 +1,3 @@
+[submodule "prereqs"]
+	path = prereqs
+	url = git@github.com:MattMsh/turbine-prereqs.git
