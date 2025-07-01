@@ -1,3 +1,6 @@
 [submodule "prereqs"]
 	path = prereqs
 	url = git@github.com:MattMsh/turbine-prereqs.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = git@github.com:MattMsh/turbin3-solana-starter.git
