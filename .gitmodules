@@ -1,9 +1,12 @@
 [submodule "prereqs"]
 	path = prereqs
 	url = git@github.com:MattMsh/turbine-prereqs.git
+	branch = main
 [submodule "solana-starter"]
 	path = solana-starter
 	url = git@github.com:MattMsh/turbin3-solana-starter.git
+	branch = main
 [submodule "anchor-vault"]
 	path = anchor-vault
 	url = git@github.com:MattMsh/anchor-vault.git
+	branch = main
