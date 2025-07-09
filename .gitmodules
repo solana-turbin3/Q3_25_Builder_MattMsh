@@ -4,3 +4,6 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = git@github.com:MattMsh/turbin3-solana-starter.git
+[submodule "anchor-vault"]
+	path = anchor-vault
+	url = git@github.com:MattMsh/anchor-vault.git
